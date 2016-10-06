@@ -11,4 +11,4 @@ alias ja='cd src/main/java/; dirs'
 alias jm='cd src/test/jmeter/; dirs'
 alias scr='cd src/test/scripts/; dirs'
 alias tres='cd src/test/resources; dirs'
-. jchesshirDefaults/env.alias
+. ~/jchesshirDefaults/env.alias
