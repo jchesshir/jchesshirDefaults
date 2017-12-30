@@ -1,5 +1,6 @@
 alias ll='ls -l'
 alias la='ls -al'
+alias lt='ls -tl'
 alias up='cd ..'
 alias home='cd ~; dirs'
 alias phome='pushd ~'
