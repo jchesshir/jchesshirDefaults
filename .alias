@@ -16,4 +16,5 @@ alias tja='cd src/test/java/; dirs'
 alias tres='cd src/test/resources; dirs'
 alias tjm='cd src/test/jmeter/; dirs'
 alias tscr='cd src/test/scripts/; dirs'
+alias clone='git clone --recurse-submodules'
 . ~/jchesshirDefaults/env.alias
